@@ -1,0 +1,9 @@
+# NetProbe Port Scanner — Dependencies
+# All dependencies are Python standard library only.
+# No pip install required.
+
+# Python >= 3.10
+# tkinter  (standard library — install via OS package manager if missing)
+# socket   (standard library)
+# threading (standard library)
+# queue    (standard library)

@@ -1,8 +1,5 @@
 __pycache__/
 *.pyc
-*.pyo
-.DS_Store
 *.db
-*.sqlite
-scan_results/
-*.txt
+scan_results.txt
+.DS_Store
